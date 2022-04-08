@@ -243,6 +243,10 @@ position: relative;
 .MAIN img {
   width:100%;
 }
+
+.MAIN a {
+  color: #386060;
+}
 div.TEXT {
   margin:0;
   position:absolute;
